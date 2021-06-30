@@ -1,0 +1,18 @@
+.container {
+    width: 20%;
+    margin: auto;
+
+}
+input, h1 {
+    display: inline-block;
+    padding: 10px;
+}
+.container1 {
+    margin-top: 10px;
+    margin-left: -20px;
+    border-radius: 100px;
+
+}
+input {
+    text-align: center;
+}
